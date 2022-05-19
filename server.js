@@ -5,7 +5,7 @@ const path = require('path');
 const express = require('express');
 const PORT = process.env.PORT || 3001;
 const app = express();
-const { notes } = require('./db/db.json');
+const { notes } = require('./data/notes.json');
 const exp = require('constants');
 
 // make public files (front end code) readily available (static resources)
