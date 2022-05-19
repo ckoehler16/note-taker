@@ -1,4 +1,4 @@
-# Note Taker
+# Note Taker :pencil2: :spiral_notepad: :memo:
 
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -11,6 +11,10 @@
 ## Description
 
 As a developer I wanted to create a note taking application where a user can create and store their notes. The user will have the opportunity on the right side of the page to input a note title, as well as, a note text that will describe in more detail what the note entails. Once the user has completed filling in the note title and text they will have the opportunity to save the note which will then appear on the left side of the page along with any other saved notes.
+
+![screenshot](https://raw.githubusercontent.com/ckoehler16/note-taker/develop/Screen%20Shot%202022-05-19%20at%209.08.54%20AM.png)
+![screenshot](https://raw.githubusercontent.com/ckoehler16/note-taker/develop/Screen%20Shot%202022-05-19%20at%209.10.15%20AM.png)
+![screenshot](https://raw.githubusercontent.com/ckoehler16/note-taker/develop/Screen%20Shot%202022-05-19%20at%209.11.34%20AM.png)
 
 ## Usage
 
