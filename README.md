@@ -20,6 +20,8 @@ As a developer I wanted to create a note taking application where a user can cre
 
 To access the Note Taker application please use the following link to get started:
 
+[Note Taker Link](https://note-taker71622.herokuapp.com/)
+
 Once you click on the link you are directed to the Note Taker landing page and from there please click the "Get Started" button. You are then directed to a page where you can view existing notes and create new notes. To create a new note click on the input field "Note Title" and input a title for your note. Next either 'tab' into the "Note Text" or click on it to enter a description for your note. Once both fields have been entered a 'save' icon will appear on the right side of the navigation bar, click on the icon to save the note. The new note will then appear on the left side of the page in a column where all saved notes are stored. To view a specific note, click on the note in the left hand column and it will appear on the right side displaying the title and the description of the note. To add more new notes click the '+' icon in the navigation bar at the top right of the page. 
 
 ## License
