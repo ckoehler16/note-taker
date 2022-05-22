@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Homework",
+      "text": "Finish Challenge assignment and async work",
+      "id": "0"
+    },
+    {
+      "title": "Snacks",
+      "text": "Buy snacks for weekend studying",
+      "id": "1"
+    },
+    {
+      "title": "Drink More Water",
+      "text": "Do not forget to drink water throughout the day!!",
+      "id": "2"
+    },
+    {
+      "title": "Exercise",
+      "text": "Try to incorporate 30 minutes of exercise each day.",
+      "id": "3"
+    },
+    {
+      "title": "Breathe",
+      "text": "Take a moment and breathe when you are stressed.",
+      "id": "7"
+    },
+    {
+      "title": "Don't Fixate",
+      "text": "When stuck on something for a long time take a step back and move on...  You can always come back to it!",
+      "id": "5"
+    }
+  ]
+}
