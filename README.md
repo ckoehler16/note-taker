@@ -1,4 +1,4 @@
-# Note Taker :pencil2: :spiral_notepad: :memo:
+# Note Taker :memo:
 
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
